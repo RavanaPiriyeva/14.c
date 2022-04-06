@@ -1,0 +1,17 @@
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\bin\Debug\netcoreapp3.1\homework 14.exe
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\bin\Debug\netcoreapp3.1\homework 14.deps.json
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\bin\Debug\netcoreapp3.1\homework 14.runtimeconfig.json
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\bin\Debug\netcoreapp3.1\homework 14.runtimeconfig.dev.json
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\bin\Debug\netcoreapp3.1\homework 14.dll
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\bin\Debug\netcoreapp3.1\homework 14.pdb
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\obj\Debug\netcoreapp3.1\homework 14.csproj.AssemblyReference.cache
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\obj\Debug\netcoreapp3.1\homework 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\obj\Debug\netcoreapp3.1\homework 14.AssemblyInfoInputs.cache
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\obj\Debug\netcoreapp3.1\homework 14.AssemblyInfo.cs
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\obj\Debug\netcoreapp3.1\homework 14.csproj.CoreCompileInputs.cache
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\obj\Debug\netcoreapp3.1\homework 14.csproj.CopyComplete
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\obj\Debug\netcoreapp3.1\homework 14.dll
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\obj\Debug\netcoreapp3.1\homework 14.pdb
+C:\Users\DERS\Desktop\c# homework\homework 14\homework 14\obj\Debug\netcoreapp3.1\homework 14.genruntimeconfig.cache
